@@ -1,8 +1,8 @@
 site_name: My Docs
 nav:
   - 博客:
-    - maven: BLOG/java/page-1.md
-    - Page 2: BLOG/maven/pom.md
+    - maven: BLOG/maven/pom.md
+    - Page 2: 
 
 theme:
   name: material
