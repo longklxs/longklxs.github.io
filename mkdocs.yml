@@ -1,7 +1,8 @@
 site_name: My Docs
 nav:
-  - 博客:
+  - 博客: BLOG/index.md
     - maven: BLOG/maven/pom.md
+    - python: BLOG/python/win-environment-terminal.md
 
 theme:
   name: material
